@@ -28,7 +28,8 @@ The Python client library provides a command-line client for the stock
 bootloader which can be used to flash any firmware to the TL866.
 To install the CLI tool, run:
 
-```cd pytl866 && python3 setup.py install```
+```python pytl866/setup.py install```
+
 
 ### Resetting to the Bootloader
 
